@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m studying computer engineering<br>🌱 I’m currently learning ROS <br>⚡ I lift weights 
+🔭 Master student in computer enginering, AI & Robotics
 
 
 ## 🌐 Socials:
